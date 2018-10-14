@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Research</string>
+
+    <string-array name="numbers">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
 </resources>
